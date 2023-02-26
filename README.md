@@ -1,5 +1,6 @@
 ### 
 
+![Простой черно-белый текстовый gif](https://user-images.githubusercontent.com/116052673/221424610-5f905862-bac8-4e55-8312-95bc3e1d8483.gif)
 
 
 
