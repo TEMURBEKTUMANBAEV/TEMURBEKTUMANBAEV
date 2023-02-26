@@ -23,6 +23,9 @@ Hi everyone! My name is Temurbek Tumanbaev and I'd like to tell you a bit about 
 
 <a href="https://www.github.com/TEMURBEKTUMANBAEV" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TEMURBEKTUMANBAEV?logo=github&style=for-the-badge&color=ec4899&labelColor=0f172a" /></a>
+
+
+
 ### Skills
 ![giphy](https://user-images.githubusercontent.com/116052673/221424900-eb67304e-80b5-42e7-8b90-12df412ebc1d.gif)
 <p align="left">
@@ -58,10 +61,13 @@ src="https://img.shields.io/github/followers/TEMURBEKTUMANBAEV?logo=github&style
 <a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
 </p>
 
-### Socials
+Badges
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+Socials
 <p align="left"> <a href="https://discord.com/users/Tima(Темурбек)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/TEMURBEKTUMANBAEV" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tima_2948" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/temurbek-tumanbaev-73371a258" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/TumanbaevGames" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
@@ -72,6 +78,11 @@ src="https://img.shields.io/github/followers/TEMURBEKTUMANBAEV?logo=github&style
 <a href="http://www.github.com/TEMURBEKTUMANBAEV"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TEMURBEKTUMANBAEV&bg_color=0f172a&color=facc15&line=ec4899&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/TEMURBEKTUMANBAEV" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEMURBEKTUMANBAEV&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
 
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/TEMURBEKTUMANBAEV/hw-7-8" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TEMURBEKTUMANBAEV&repo=hw-7-8&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/TEMURBEKTUMANBAEV/Error" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TEMURBEKTUMANBAEV&repo=Error&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
