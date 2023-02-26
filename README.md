@@ -2,6 +2,7 @@
 
 ![Простой черно-белый текстовый gif](https://user-images.githubusercontent.com/116052673/221424610-5f905862-bac8-4e55-8312-95bc3e1d8483.gif)
 
+![giphy](https://user-images.githubusercontent.com/116052673/221424900-eb67304e-80b5-42e7-8b90-12df412ebc1d.gif)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tumanbaev Temurbek
@@ -23,7 +24,7 @@ Hi everyone! My name is Temurbek Tumanbaev and I'd like to tell you a bit about 
 <a href="https://www.github.com/TEMURBEKTUMANBAEV" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TEMURBEKTUMANBAEV?logo=github&style=for-the-badge&color=ec4899&labelColor=0f172a" /></a>
 ### Skills
-
+![giphy](https://user-images.githubusercontent.com/116052673/221424900-eb67304e-80b5-42e7-8b90-12df412ebc1d.gif)
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -73,26 +74,6 @@ src="https://img.shields.io/github/followers/TEMURBEKTUMANBAEV?logo=github&style
 <a href="https://github.com/TEMURBEKTUMANBAEV" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEMURBEKTUMANBAEV&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
-
 <div width="100%" align="center"><a href="https://github.com/TEMURBEKTUMANBAEV/hw-7-8" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TEMURBEKTUMANBAEV&repo=hw-7-8&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/TEMURBEKTUMANBAEV/Error" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TEMURBEKTUMANBAEV&repo=Error&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 <br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/TEMURBEKTUMANBAEV/hw-5-6" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TEMURBEKTUMANBAEV&repo=hw-5-6&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
-
-
-
-<!--
-**TEMURBEKTUMANBAEV/TEMURBEKTUMANBAEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
