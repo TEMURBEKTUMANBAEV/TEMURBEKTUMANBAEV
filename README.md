@@ -24,7 +24,11 @@ Hi everyone! My name is Temurbek Tumanbaev and I'd like to tell you a bit about 
 <a href="https://www.github.com/TEMURBEKTUMANBAEV" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TEMURBEKTUMANBAEV?logo=github&style=for-the-badge&color=ec4899&labelColor=0f172a" /></a>
 
-
+<div align="center">
+  <a href="https://github.com/TEMURBEKTUMANBAEV">
+  <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg"
+       alt="snake" /></a>
+</div>
 
 ### Skills
 ![giphy](https://user-images.githubusercontent.com/116052673/221424900-eb67304e-80b5-42e7-8b90-12df412ebc1d.gif)
