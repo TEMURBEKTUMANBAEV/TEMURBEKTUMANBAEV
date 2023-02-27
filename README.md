@@ -31,33 +31,7 @@ src="https://img.shields.io/github/followers/TEMURBEKTUMANBAEV?logo=github&style
 </div>
 
 
-
-{
-  "name": "github-stats-terminal-style",
-  "version": "1.0.0",
-  "description": "Generate Github Stats as like Terminal Interface with typing effects dynamically for your profile Readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yogeshwaran01/github-stats-terminal-style.git"
-  },
-  "keywords": [
-    "github",
-    "github-stats",
-    "node",
-    "terminal",
-    "github-stats-card"
-  ],
-  "author": "yogeshwaran01",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/yogeshwaran01/github-stats-terminal-style/issues"
-  },
-  "homepage": "https://github.com/yogeshwaran01/github-stats-terminal-style#readme",
-  "dependencies": {
-    "@octokit/rest": "^18.10.0",
-    "nunjucks": "^3.2.3"
-  }
-}
+![github stats](https://github-stats-terminal-style.herokuapp.com/<TEMURBEKTUMANBAEV>)
 
 
 
