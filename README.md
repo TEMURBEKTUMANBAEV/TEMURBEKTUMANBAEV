@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/TEMURBEKTUMANBAEV?logo=github&style
 </div>
 
 
-![github stats](https://github-stats-terminal-style.herokuapp.com/<TEMURBEKTUMANBAEV>)
+
 
 
 
