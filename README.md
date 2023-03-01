@@ -29,7 +29,6 @@ src="https://img.shields.io/github/followers/TEMURBEKTUMANBAEV?logo=github&style
 
 
 
-
 ### Skills
 ![giphy](https://user-images.githubusercontent.com/116052673/221424900-eb67304e-80b5-42e7-8b90-12df412ebc1d.gif)
 <p align="left">
