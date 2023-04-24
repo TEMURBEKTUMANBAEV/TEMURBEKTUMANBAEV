@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/TEMURBEKTUMANBAEV?logo=github&style
 
 
 ### Skills
-![giphy](https://user-images.githubusercontent.com/116052673/221424900-eb67304e-80b5-42e7-8b90-12df412ebc1d.gif)
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
