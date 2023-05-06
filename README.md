@@ -60,7 +60,6 @@ src="https://img.shields.io/github/followers/TEMURBEKTUMANBAEV?logo=github&style
 </p>
 
 Badges
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
  
 Socials
