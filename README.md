@@ -1,5 +1,5 @@
 ### 
-![Простой черно-белый текстовый gif](https://user-images.githubusercontent.com/116052673/221424610-5f905862-bac8-4e55-8312-95bc3e1d8483.gif)
+![Простой черно-белый текстовый gif](https://user-images.githubusercontent.com/116052673/221424610-5f905862-bac8-4e55-8312-95bc3e1d8483.gif) 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tumanbaev Temurbek
 ==========================================================================================================================================
@@ -80,11 +80,3 @@ Socials
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
-
-<b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/TEMURBEKTUMANBAEV/hw-7-8" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TEMURBEKTUMANBAEV&repo=hw-7-8&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/TEMURBEKTUMANBAEV/Error" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TEMURBEKTUMANBAEV&repo=Error&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/TEMURBEKTUMANBAEV/hw-5-6" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TEMURBEKTUMANBAEV&repo=hw-5-6&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
