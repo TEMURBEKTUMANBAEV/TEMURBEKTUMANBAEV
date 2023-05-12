@@ -73,5 +73,3 @@ Socials
 <a href="http://www.github.com/TEMURBEKTUMANBAEV"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TEMURBEKTUMANBAEV&stroke=facc15&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 <a href="http://www.github.com/TEMURBEKTUMANBAEV"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TEMURBEKTUMANBAEV&bg_color=0f172a&color=facc15&line=ec4899&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/TEMURBEKTUMANBAEV" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEMURBEKTUMANBAEV&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
