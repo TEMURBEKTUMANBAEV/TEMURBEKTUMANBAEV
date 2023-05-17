@@ -1,5 +1,6 @@
 ### 
-![Простой черно-белый текстовый gif](https://user-images.githubusercontent.com/116052673/221424610-5f905862-bac8-4e55-8312-95bc3e1d8483.gif) 
+![Простой черно-белый текстовый gif (2)](https://github.com/TEMURBEKTUMANBAEV/TEMURBEKTUMANBAEV/assets/116052673/bf43ea31-4724-4b6b-8ada-e67244d860e0)
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tumanbaev Temurbek
 ==========================================================================================================================================
