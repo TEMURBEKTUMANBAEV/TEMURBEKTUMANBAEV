@@ -10,7 +10,6 @@ Hi everyone! My name is Temurbek Tumanbaev and I'd like to tell you a bit about 
   <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg"
        alt="snake" /></a>
 </div>
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/TEMURBEKTUMANBAEV"><img src="https://github-readme-stats.vercel.app/api?username=TEMURBEKTUMANBAEV&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="TEMURBEKTUMANBAEV's GitHub stats" /></a>
